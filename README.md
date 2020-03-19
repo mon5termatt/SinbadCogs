@@ -1,22 +1,6 @@
-# SinbadCogs
-[![Code style: black](https://github.com/mikeshardmind/SinbadCogs/workflows/black/badge.svg)](https://github.com/ambv/black) 
-[![Type Checked with mypy](https://github.com/mikeshardmind/SinbadCogs/workflows/mypy/badge.svg)](https://github.com/python/mypy) 
-[![Red](https://img.shields.io/badge/Red-DiscordBot-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop) 
+## Why Did You Clone this?
 
-
-## Availability of Support
-
-I was supporting these cogs more thoroughly before.
-
-I will not be doing that going forward.
-If you find a security issue, feel free to reach out, otherwise it will not be changed.
-
-I will not be removing the cogs here, people are still using them and I see no good reason to do so.
-
-
-## Whats here?
-
-Various addons for Red Discordbot. Most of these are focused around utility purposes.
+He Might be shutting down support in the near future, this is here merely as a backup
 
 
 ### AntiMentionSpam
